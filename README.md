@@ -1,23 +1,19 @@
+# 📚 Flutter Quiz App
 
-# 🎲 Roll Dice - Flutter App
+A simple **quiz application** built with Flutter. This app demonstrates fundamental concepts of Flutter development, such as widget trees, navigation, state management, and user interaction.
 
-A simple and fun Flutter application that simulates rolling a dice. This project was built as part of my Flutter learning journey to understand the basics of widgets, state management, and UI design.
+## 🧠 Features
 
-## 📱 Features
-
-- 🎲 Tap a button to roll the dice
-- 📷 Dice images change based on random values (1–6)
-- 🌈 Beautiful gradient background
-- 💡 Practice with `StatelessWidget` and `StatefulWidget`
+- ✅ Start screen with quiz logo and a "Start Quiz" button
+- 📄 Question screen with multiple-choice answers
+- 💡 Interactive UI using `StatefulWidget` and `StatelessWidget`
+- 🎨 Gradient background for an appealing visual experience
+- 🧼 Clean and minimal design
 
 ## 🛠️ Built With
 
 - Flutter
 - Dart
-
-## 📸 Screenshots
-
-(Will be uploaded)
 
 ## 🚀 Getting Started
 
