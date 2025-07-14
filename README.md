@@ -1,20 +1,25 @@
-<<<<<<< HEAD
-# quiz
+# 📚 Flutter Quiz App
 
-A new Flutter project.
+A simple **quiz application** built with Flutter. This app demonstrates fundamental concepts of Flutter development, such as widget trees, navigation, state management, and user interaction.
 
-## Getting Started
+## 🧠 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Start screen with quiz logo and a "Start Quiz" button
+- 📄 Question screen with multiple-choice answers
+- 💡 Interactive UI using `StatefulWidget` and `StatelessWidget`
+- 🎨 Gradient background for an appealing visual experience
+- 🧼 Clean and minimal design
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# quiz_app
->>>>>>> ae0f94b6397ea9cfed5dd359e8953e6d7564153c
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Riead2001/Roll-Dice__Flutter.git
+   cd Roll-Dice__Flutter
